@@ -1,0 +1,32 @@
+.corfundo-cinza{
+    background-color: #cc0909;
+}
+
+.margem-tabela{
+    width: 200px;
+}
+
+.margem-descricao{
+    width: 600px;
+}
+
+.margem-preço{
+    width: 100px;
+}
+
+.cor-margem{
+    border: 2px solid #c50909;
+    border-collapse:collapse;
+}
+
+.centralizar-titulo{
+    width:5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, tr, th, td {
+    border: 1px solid #cc0909;
+}
